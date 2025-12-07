@@ -167,6 +167,4 @@ DELIMITER ;
 **Jyothirmayee**  
 🔗 LinkedIn: https://www.linkedin.com/in/pothala-jyothirmayee-650555338/  
 
----
-
-### 🎉 Ready to upload to GitHub!
+--
